@@ -29,4 +29,4 @@ Subscriber status tells the story as subscriber usage greatly outpaces customer 
 
 ## Summary
 In sum, the visualizations suggest that although overall usage is evident, there exists substantial differences in usage patterns by gender and subscriber status. Future media and advertising efforts may be focused on city visitors and additional populations that may not know the benefits of using the bikes to commute and for more short-term situations. For a more involved look at the data, please visit the following web site:
-[NYC Bikesharing](https://public.tableau.com/profile/jason.r7696#!/vizhome/BikeSharingChallenge_16117917278750/NYCCitibikeUsage?publish=yes)
+[NYC Bikesharing](https://public.tableau.com/profile/jason.r7696#!/vizhome/BikeSharingChallenge_16117917278750/NYCCitibikeUsage?publish=yes). 
